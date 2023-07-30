@@ -1,3 +1,3 @@
 # portfolio
-HTML
-css
+.HTML
+.css
